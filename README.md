@@ -1,2 +1,2 @@
-# git-basics
+# main
 #use питон
