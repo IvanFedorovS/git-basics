@@ -1,2 +1,2 @@
 print ('Hello world, main!')
-print ('Hello world, five')
+print ('Buy')
